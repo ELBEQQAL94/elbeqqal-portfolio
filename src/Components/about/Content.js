@@ -22,7 +22,7 @@ const Content = () => {
           <Item
             icon={faLaptop}
             title="Responsive"
-            desc="My layouts will work on any device, big or small."
+            desc="Responsive Website, Work on any device."
           />
         </Grid.Column>
         <Grid.Column mobile={16} tablet={8} computer={5}>

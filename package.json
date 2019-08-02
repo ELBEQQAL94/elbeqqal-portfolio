@@ -2,10 +2,6 @@
   "name": "elbeqqalyoussef",
   "version": "0.1.0",
   "private": true,
-  "engines":{
-      "node": "10.16.0",
-      "npm": "6.9.0"
-  },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.19",
     "@fortawesome/free-solid-svg-icons": "^5.9.0",
@@ -14,7 +10,7 @@
     "react-dom": "^16.8.6",
     "react-particles-js": "^2.7.0",
     "react-reveal": "^1.2.2",
-    "react-scripts": "3.0.1",
+    "react-scripts": "^3.0.1",
     "react-scroll": "^1.7.12",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^0.87.3",

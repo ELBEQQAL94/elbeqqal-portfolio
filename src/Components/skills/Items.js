@@ -18,7 +18,7 @@ const Items = () => (
               <p>
                 I Am a Front-End Developer over than 2 years, I worked at
                 company name is
-                <a href="https://www.econostic.com/">ECONOSTIC</a>
+                <a href="https://www.econostic.com/" target="_blank">ECONOSTIC</a>
                 in post Front-End Reactjs Developer. Now i'm a freelancer.
               </p>
 
@@ -31,9 +31,6 @@ const Items = () => (
               <h4>Framework</h4>
 
               <span>Reactjs</span>
-              <span>ReactNative</span>
-              <span>Vuejs</span>
-              <span>Sveltejs</span>
 
               <h4>Server Side</h4>
 

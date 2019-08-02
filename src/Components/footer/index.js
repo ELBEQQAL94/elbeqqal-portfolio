@@ -16,15 +16,12 @@ const Footer = () => (
         </div>
       </div>
       <div className="icons">
-        <a href="https://github.com/ELBEQQAL94">
+        <a href="https://github.com/ELBEQQAL94" target="_blank">
           {" "}
           <ScGithub size="48" />
         </a>
-        <a href="#">
-          {" "}
-          <LinkedinSquare size="48" />
-        </a>
-        <a href="#">
+        
+        <a href="https://twitter.com/YBeqqal" target="_blank">
           {" "}
           <ScTwitter size="48" />
         </a>

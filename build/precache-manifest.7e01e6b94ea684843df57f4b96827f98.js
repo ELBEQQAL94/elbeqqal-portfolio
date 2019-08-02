@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ac8e226c50903de625258bbbab6628f9",
+    "revision": "4a1dcc732250c19ac28f0b2ab60cbb96",
     "url": "/index.html"
   },
   {
-    "revision": "ef728188da18d4205458",
-    "url": "/static/css/2.faaa52d3.chunk.css"
+    "revision": "30a14e97e31077caa932",
+    "url": "/static/css/2.621b5bde.chunk.css"
   },
   {
-    "revision": "f6525890da5c69024cc9",
-    "url": "/static/css/main.b3fb8369.chunk.css"
+    "revision": "d6a8905b93b717e6fd46",
+    "url": "/static/css/main.54673793.chunk.css"
   },
   {
-    "revision": "ef728188da18d4205458",
-    "url": "/static/js/2.1c13bcba.chunk.js"
+    "revision": "30a14e97e31077caa932",
+    "url": "/static/js/2.2f6c62b5.chunk.js"
   },
   {
-    "revision": "f6525890da5c69024cc9",
-    "url": "/static/js/main.a3ed84b4.chunk.js"
+    "revision": "d6a8905b93b717e6fd46",
+    "url": "/static/js/main.1c215bc7.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
+  },
+  {
+    "revision": "05f221eae5c5bb5b04b2783a9b3ad33a",
+    "url": "/static/media/Bicycle.05f221ea.png"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
