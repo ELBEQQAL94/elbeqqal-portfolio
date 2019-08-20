@@ -3,7 +3,7 @@ import { Grid, Container } from "semantic-ui-react";
 import Flip from "react-reveal";
 
 // Images
-import SpaceX from "../../images/projects/project01.png";
+import NetflixApp from "../../images/projects/netflix-app.png";
 import Bicycle from "../../images/projects/Bicycle.png";
 
 // Components
@@ -19,9 +19,9 @@ const Projects = () => (
           <Grid.Row>
             <Grid.Column mobile={16} tablet={8} computer={8}>
               <Project
-                bg={SpaceX}
-                previewLink="https://vast-scrubland-94737.herokuapp.com"
-                githubLink="https://github.com/ELBEQQAL94/spaceX"
+                bg={NetflixApp}
+                previewLink="https://musing-feynman-c9514b.netlify.com/"
+                githubLink="https://github.com/ELBEQQAL94/netflix-app"
               />
             </Grid.Column>
             <Grid.Column mobile={16} tablet={8} computer={8}>
