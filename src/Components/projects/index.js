@@ -5,6 +5,7 @@ import Flip from "react-reveal";
 // Images
 import NetflixApp from "../../images/projects/netflix-app.png";
 import Bicycle from "../../images/projects/Bicycle.png";
+import NetflixVideo from "../../images/projects/netflix_video.png";
 
 // Components
 import Title from "../../Components/ui/Title";
@@ -29,6 +30,13 @@ const Projects = () => (
                 bg={Bicycle}
                 previewLink="https://heuristic-mirzakhani-a269db.netlify.com/"
                 githubLink="https://github.com/ELBEQQAL94/wearecuppa-"
+              />
+            </Grid.Column>
+            <Grid.Column mobile={16} tablet={8} computer={8}>
+              <Project
+                bg={NetflixVideo}
+                previewLink="https://objective-hypatia-db4f19.netlify.com/"
+                githubLink="https://github.com/ELBEQQAL94/recreate_netflix_video_player"
               />
             </Grid.Column>
           </Grid.Row>
