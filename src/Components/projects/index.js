@@ -27,9 +27,9 @@ const Projects = () => (
             </Grid.Column>
             <Grid.Column mobile={16} tablet={8} computer={8}>
               <Project
-                bg={Bicycle}
-                previewLink="https://heuristic-mirzakhani-a269db.netlify.com/"
-                githubLink="https://github.com/ELBEQQAL94/wearecuppa-"
+                bg="https://i.postimg.cc/dQmkd758/Screenshot-2020-02-09-React-App-1.png"
+                previewLink="https://sad-perlman-2199f0.netlify.com"
+                githubLink="https://github.com/ELBEQQAL94/frontend-code-challenge"
               />
             </Grid.Column>
             <Grid.Column mobile={16} tablet={8} computer={8}>
